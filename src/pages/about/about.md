@@ -1,7 +1,7 @@
 ---
 templateKey: about-page
 path: /about
-title: About our values
+title: We do things differently. DAN EDITED THIS FIELD ONLINE
 ---
 ### I like some things about this
 
